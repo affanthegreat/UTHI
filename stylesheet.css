@@ -1,0 +1,45 @@
+body{
+    background-image: url('images/dash-bimg.jfif');
+    background-position: center;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+#container{
+    width:80%;
+    margin:10vh auto;
+
+}
+#form-box-2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    width:auto;height: auto;
+    background-image: url('images/form-back.jpg');
+    background-position: center;
+    background-size: cover;
+    opacity: 0.90;
+    color: white;
+}
+h1{
+    margin-top:30vh;
+    color:white;text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+h2{
+    color:white;text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+.input{
+    width: 22vw;;
+    font-family: 'Roboto', sans-serif;
+}
+.register{
+    background-color: white;
+    width:12vw ;
+}
+.anchor{
+    text-decoration: none;
+    color:yellow;
+}
+.anchor:hover{
+    color:white;
+}

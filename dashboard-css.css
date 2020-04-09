@@ -1,0 +1,40 @@
+
+#container{
+  width:80%;
+  margin:2vh auto;
+  border:2px solid black;
+}
+.form-box{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  padding-top:15px;
+  font-size: 18px;font-family:  sans-serif;
+  margin:10px ;
+}
+.search-bar{
+  width: 10%;
+}
+.in-form{
+  border:2px solid black;
+  align-self: center;
+}
+.label-name{
+text-align: left;
+  width:95%;
+  font-size:16px;
+}
+.each-element{
+  text-align: center;
+  height: 4vh;width:95%;
+  padding:5px;
+}
+input{
+  font-size: 16px;
+  text-align: center;
+  font-weight: bolder;   
+  position: relative;
+  bottom:25px;
+  text-transform: capitalize;
+}
+
+
